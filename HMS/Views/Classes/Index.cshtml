@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Gym.Models.Classes>
+@inject Microsoft.AspNetCore.Identity.SignInManager<Gym.Models.ApplicationUser> signInManager
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@if (signInManager.IsSignedIn(User))
+{
+    if (User.IsInRole("Admin")) // Check if the user has the "Admin" role
+    {
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p> }
+    else
+    {
+        <p>You are not authorized</p>}
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassDescription)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClassName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClassDescription)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ClassID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ClassID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ClassID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

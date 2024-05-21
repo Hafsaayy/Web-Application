@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4" style="font-weight:bold">Hotel management system </h1>
+    <div class="container">
+        <div class="row">
+            <table id="customers">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                </tr>
+                <tr>
+                    <td>12203517</td>
+                    <td>Bibek Majhi</td>
+                </tr>
+                <tr>
+                    <td>12200508</td>
+                    <td>Ayush Pokharel</td>
+                </tr>
+                <tr>
+                    <td>12201283</td>
+                    <td>
+                        Ayush Pokharel
+                    </td>
+                </tr>
+                <tr>
+                    <td>12200703</td>
+                    <td>
+                        Gaurav Gurung
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    #customers {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        #customers td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #customers tr:nth-child(even) {
+            background-color: #ccddee;
+        }
+
+        #customers tr:hover {
+            background-color: #ddd;
+        }
+
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+</style>

@@ -1,0 +1,920 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\trainingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\trainingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\memberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\memberships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:gym.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Categories\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\Downloads\\Gym\\Gym\\obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Index.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Edit.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Delete.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Create.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Categories\\Create.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\lab3\\TrailblazingTech\\TrailblazingTech\\Models\\Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Nexgen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CustomersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\EventsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:1:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|c:\\users\\msi\\downloads\\gym\\gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:2:0:{0900E18C-FCA5-4E97-B7DC-A3B187BBE4AF}|Gym.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingSessions.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\TrainingSessions.cs",
+              "RelativeDocumentMoniker": "Models\\TrainingSessions.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\TrainingSessions.cs",
+              "RelativeToolTip": "Models\\TrainingSessions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Staff.cs",
+              "RelativeToolTip": "Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:52.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Memberships.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Memberships.cs",
+              "RelativeDocumentMoniker": "Models\\Memberships.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Memberships.cs",
+              "RelativeToolTip": "Models\\Memberships.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:51.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Members.cs",
+              "RelativeDocumentMoniker": "Models\\Members.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Members.cs",
+              "RelativeToolTip": "Models\\Members.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:50.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Classes.cs",
+              "RelativeDocumentMoniker": "Models\\Classes.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\Classes.cs",
+              "RelativeToolTip": "Models\\Classes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gym",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Gym.csproj",
+              "RelativeDocumentMoniker": "Gym.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Gym.csproj",
+              "RelativeToolTip": "Gym.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T05:20:37.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAmwHcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T05:20:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T05:20:32.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T05:20:32.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Utility\\Helper.cs",
+              "RelativeDocumentMoniker": "Utility\\Helper.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Utility\\Helper.cs",
+              "RelativeToolTip": "Utility\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Events.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Events.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Categories\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Index.cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Index.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Index.cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Index.cshtml.g.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAmwDkBAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T08:19:18.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Edit.cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Edit.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Edit.cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Edit.cshtml.g.cs",
+              "ViewState": "AQIAAFACAAAAAAAAAAAmwFsCAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T08:19:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Views\\Events\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Delete.cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Delete.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Delete.cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Delete.cshtml.g.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAmwPcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T08:17:55.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Create.cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Create.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Create.cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Events\\Create.cshtml.g.cs",
+              "ViewState": "AQIAAAwCAAAAAAAAAAAmwBcCAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T08:16:52.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Categories\\Create.cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Categories\\Create.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Categories\\Create.cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\obj\\Debug\\net5.0\\Razor\\Views\\Categories\\Create.cshtml.g.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAmwOsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T08:08:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Products.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Products.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T07:56:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Customers.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Payments.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Payments.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Payments.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Payments.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T07:56:26.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Orders.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T07:56:26.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\lab3\\TrailblazingTech\\TrailblazingTech\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\lab3\\TrailblazingTech\\TrailblazingTech\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\lab3\\TrailblazingTech\\TrailblazingTech\\Models\\Customers.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\lab3\\TrailblazingTech\\TrailblazingTech\\Models\\Customers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-09T03:31:52.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\seminar\\Models\\Categories.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Nexgen.csproj",
+              "DocumentMoniker": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Nexgen.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Nexgen.csproj",
+              "ToolTip": "C:\\Users\\MSI PC\\source\\repos\\nexgen_admin\\Nexgen.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\MSI PC\\source\\repos\\nexgen_admin\\Nexgen.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-05-15T07:56:26.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:20:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\Gym\\Gym\\obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net5.0\\Razor\\Views\\Account\\Register.cshtml.g.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwB8AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:20:32.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

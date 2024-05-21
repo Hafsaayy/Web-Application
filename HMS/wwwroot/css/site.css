@@ -1,0 +1,375 @@
+﻿*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    background: #fff;
+    color: #000;
+    overflow: hidden;
+}
+
+.wrapper_outer {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.wrapper {
+    height: 100%;
+    overflow-x: hidden;
+    perspective: 1px;
+}
+/* CSS parrallax effect for background  */
+.parallax_section {
+    box-sizing: border-box;
+    min-height: 100vh;
+    position: relative;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+    overflow: hidden;
+    transform-style: preserve-3d;
+}
+
+.parallax_bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    min-height: 100%;
+    transform: translate3d(0, 0, -1px) scale(2);
+}
+
+/* 
+background video for home page */
+#bg-one {
+    background: url(./media/video.mp4);
+    position: relative;
+}
+
+video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.text {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -60%);
+}
+
+    .text h3 {
+        font-family: "Anton", sansserif;
+        background-image: linear-gradient( to right, brown, brown, yellow, white, yellow, brown, brown );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -webkittext-stroke-width: 1px;
+        -webkit-text-stroke-color: brown;
+        padding: 15% 5% 0% 5%;
+        text-align: center;
+        font-size: 4em;
+    }
+
+    .text p {
+        font-family: "Montserrat", sans-serif;
+        font-size: 1.55em;
+        text-align: center;
+        color: white;
+    }
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: rgb(3, 3, 3);
+}
+
+/* background image for home page right after video */
+#bg-two {
+    background-image: url(./media/bg-two.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    #bg-two h2 {
+        font-size: 3em;
+        padding: 5% 5% 5% 5%;
+        color: rgb(255, 255, 255);
+    }
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(374px, auto));
+    position: relative;
+}
+
+.col {
+    position: relative;
+    padding: 10px;
+    position: relative;
+}
+
+    .col img {
+        width: 100%;
+        cursor: pointer;
+    }
+
+.overlay {
+    content: "";
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+    .overlay h3 {
+        color: yellow;
+        background-color: rgba(0, 0, 0, 0.5);
+        text-shadow: 2px 2px 0px navy, 2px 2px 4px white;
+        font-family: "Montserrat", sans-serif;
+    }
+
+    .overlay p {
+        padding: 1%;
+        font-family: "Montserrat", sans-serif;
+        color: white;
+    }
+
+.col:hover .overlay {
+    opacity: 0.8;
+}
+
+/* second background image for home section right after image background */
+#bg-three {
+    background-image: url(./media/bg-one.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+}
+
+    #bg-three .pie {
+        opacity: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+        position: relative;
+    }
+
+        #bg-three .pie:hover {
+            opacity: 0.8;
+            transition: 2s ease;
+        }
+
+    #bg-three h2 {
+        font-size: 3em;
+        padding: 5% 5% 5% 5%;
+        color: rgb(255, 255, 255);
+    }
+
+    #bg-three .text {
+        text-shadow: 2px 2px 0px white, 2px 2px 3px navy;
+        color: navy;
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+    }
+
+.image-container {
+    box-shadow: 10px 10px 10px #ffffff;
+    background: linear-gradient(to right, gray, white, gray);
+}
+
+    .image-container img {
+        opacity: 0;
+    }
+
+    .image-container:hover img {
+        opacity: 1;
+        transition: 2s ease;
+    }
+
+
+/* background image of companies and contact pages */
+.card-box {
+    background-image: url(./media/c3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .card-box .sub-text {
+        font-family: "Montserrat", sans-serif;
+        font-size: 1.55em;
+        text-align: center;
+        color: white;
+        padding-bottom: 5%;
+    }
+
+    .card-box h2 {
+        font-size: 3em;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding-top: 5%;
+    }
+
+.card {
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 10px 10px 0px 0px #f8f6b0;
+    background-color: rgb(10, 10, 100, 0.5);
+    color: #f8f6b0;
+    text-shadow: 4px 4px 0px navy, 4px 4px 8px white;
+    font-family: "Anton", sans-serif;
+}
+
+.card-body {
+    align-items: center;
+    text-align: center;
+}
+
+    .card-body h4 {
+        text-shadow: 2px 2px 0px white, 2px 2px 4px navy;
+        font-family: "Niconne", cursive;
+        letter-spacing: 7px;
+        text-transform: uppercase;
+        padding-bottom: 20px;
+    }
+
+/* contact page heading  */
+.card-box h3 {
+    font-family: "Anton", sansserif;
+    background-image: linear-gradient( to right, brown, brown, yellow, white, yellow, brown, brown );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkittext-stroke-width: 1px;
+    -webkit-text-stroke-color: brown;
+    padding: 5%;
+    text-align: center;
+    font-size: 4em;
+}
+
+/* login and register*/
+
+.form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(374px, auto));
+    position: relative;
+    height: 100%;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(./media/login-register.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#login {
+    box-shadow: 10px 10px 0px 0px #eeeeee;
+    align-items: center;
+}
+
+    #login .field input {
+        padding: 10px 10px 10px 10px;
+        border-radius: 5px;
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+#button {
+    background-color: blue;
+    color: white;
+}
+
+/* footer */
+.container {
+    max-width: 1170px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: #24262b;
+    padding: 50px 0;
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0 20px;
+}
+
+    .footer-col h4 {
+        color: #ffffff;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+        font-weight: 500;
+        position: relative;
+    }
+
+    .footer-col .social-links a {
+        display: inline-block;
+        height: 40px;
+        width: 40px;
+        background-color: rgba(255, 255, 255, 0.2);
+        margin: 0 10px 10px 0;
+        text-align: center;
+        line-height: 40px;
+        color: #ffffff;
+        transition: all 0.5s ease;
+    }
+
+/* footer responsive*/
+@media (max-width: 1000px) {
+    .mx-30 {
+        margin-bottom: 30px;
+    }
+}
+
+
+/* background video responsive*/
+@media (max-width: 767px) {
+    .footer-col {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 574px) {
+    .footer-col {
+        width: 100%;
+    }
+}
